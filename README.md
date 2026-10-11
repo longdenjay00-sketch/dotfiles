@@ -1,0 +1,2 @@
+# dotfiles
+kali debian termux
