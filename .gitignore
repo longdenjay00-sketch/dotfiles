@@ -1,0 +1,20 @@
+# Never commit secrets, keys, credentials, or shell history
+.env
+.env.*
+.ssh/
+.secrets/
+90_VAULT/
+*.pem
+*.key
+*credentials*
+*history*
+auth.json
+.termux_authinfo
+.Xauthority
+.xsession-errors
+.cache/
+.local/
+.npm/
+.mozilla/
+node_modules/
+.DS_Store
