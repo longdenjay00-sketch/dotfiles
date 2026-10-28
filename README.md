@@ -3,6 +3,8 @@
 [![Deploy Dotfiles Dashboard to GitHub Pages](https://github.com/longdenjay00-sketch/dotfiles/actions/workflows/deploy.yml/badge.svg)](https://github.com/longdenjay00-sketch/dotfiles/actions/workflows/deploy.yml)
 **[🕶️ Live Morpheus Construct Dashboard (GitHub Pages)](https://longdenjay00-sketch.github.io/dotfiles/)**
 
+![Morpheus Nebuchadnezzar Construct Hero](public/hero.png)
+
 > *"You take the blue pill, the story ends. You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes."*
 
 Portable, container-adaptive dotfiles and **Morpheus** AI harness configuration for two runtimes on one `aarch64` tablet—plus any fresh Linux container you clone into:
