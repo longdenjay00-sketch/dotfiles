@@ -17,4 +17,5 @@ auth.json
 .npm/
 .mozilla/
 node_modules/
+dist/
 .DS_Store
